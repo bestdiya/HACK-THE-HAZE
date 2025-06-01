@@ -1,7 +1,6 @@
 # HACK-THE-HAZE
 🚀 CareerSaathi - AI-Powered Career Guidance Platform
-📱 Live Demo
-🔗 CareerSaathi Live App
+
 🎯 What CareerSaathi Does
 CareerSaathi is an AI-powered career guidance platform specifically designed for Indian students and professionals. It provides:
 
